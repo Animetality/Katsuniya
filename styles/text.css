@@ -60,9 +60,9 @@ section {
 }
 
 h1.main-header {
-    color: red;
+    color: black;
 }
 
 a.main-header {
-    color: red;
+    box-shadow: inset 0 -0.05em hsl(4, 94%, 57%);
 }
