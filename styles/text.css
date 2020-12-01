@@ -51,6 +51,18 @@ a{
         font-size: 16px; 
     }
 }
-h1::-moz-selection {
+h1::selection {
     background: #fff2a8;
   }
+
+section {
+    padding: 20px;
+}
+
+h1.main-header {
+    color: red;
+}
+
+a.main-header {
+    color: red;
+}
