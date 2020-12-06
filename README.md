@@ -23,3 +23,9 @@ The Mac and Mobile interface will come into play when I want to begin learning J
 It's a Rhythm based game that requires you to listen to the song playing in order to be able to play.
 
 The concept is still a W-I-P but I'll be updating this when the general idea has arrived.
+
+Players require precision and time in order to get the overall idea of the game.
+
+You can easily get lost in the game if you don't listen to the song
+
+Light notes will be added when more releases come up.
