@@ -17,3 +17,7 @@ Unknown, but still thinking
 This build is mainly focused on Windows.
 
 The Mac and Mobile interface will come into play when I want to begin learning Java and Swift.
+
+# What's the structure of the game?
+
+It's a Rhythm based game that requires you to listen to the song playing in order to be able to play.
