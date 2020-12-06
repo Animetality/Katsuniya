@@ -11,3 +11,9 @@ The novel is going to have the logic attached to the game.
 # Why Katsuniya?
 
 Unknown, but still thinking
+
+# Where does this work?
+
+This build is mainly focused on Windows.
+
+The Mac and Mobile interface will come into play when I want to begin learning Java and Swift.
